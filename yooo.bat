@@ -1,1 +1,3 @@
-yoyoyoyoyoyoyoyoyoyoyoyoyoooooooooooooooooo
+@echo off
+echo hi!!!
+pause
