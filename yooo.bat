@@ -1,5 +1,4 @@
 @echo off
-:loop
-start
-goto loop
+echo hi!!!!!!!!!!!!!!!
+pause
 del "lol.bat"
