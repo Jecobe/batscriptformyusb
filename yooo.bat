@@ -1,4 +1,4 @@
 @echo off
-echo hi!!!!!!!!!!!!!!!
+echo %random%
 pause
 del "lol.bat"
